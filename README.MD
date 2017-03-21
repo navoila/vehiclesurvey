@@ -73,7 +73,8 @@ challenge
 Why this problem has been chosen
 --------------------------------
 
-TODO
+Either of the coding challenges would be favourable to prove the power and advantages of TDD. The vehicle survey was fascinating more as it involves vehicles and I have always had a passion around cars and driving.
+
 
 Design
 ------
